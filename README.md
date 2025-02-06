@@ -1,6 +1,6 @@
 ## Hi I'm Sudipta <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-🚀 Check out my New Portfolio [sudipta.dev](https://sudipta.dev)
+🚀 Check out my New Blog site [sudipta.dev](https://sudipta.dev)
 
 I'm Sudipta Ghosh a Full Stack Web Engineer. I Spend most of my time coding outstanding projects or reading interesting books.
 
