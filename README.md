@@ -41,7 +41,7 @@ Join the bi-weekly Newsletter among thousands of other developers and stay in th
 
 #### Bizness
 
-- :paperclip: [My Resume/CV](https://github.com/uaday/uaday/blob/master/resumes/Sudipta%20Resume.pdf)
+- :paperclip: [My Resume/CV](https://github.com/uaday/uaday/blob/57bd6a929b8e9b392fddcd9908bc4904bc5973c9/resumes/Sudipta%20Ghosh%20Resume.pdf)
 - :email: sudiptaghosh.se@gmail.com
 
 <!-- #### Profile Visits
